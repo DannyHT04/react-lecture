@@ -7,8 +7,8 @@ function App() {
   return (
     
     <>
-      <h1 className="text-2xl font-bold mb-4">Welcome to My React App</h1>
       <NavBar />
+      <h1 className="text-2xl font-bold mb-4">Welcome to My React App</h1>
     </>
   )
 }
